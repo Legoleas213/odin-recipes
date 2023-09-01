@@ -1,0 +1,58 @@
+.cap {
+    color: blue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#one,
+#two,
+#three {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: wheat;
+}
+
+#one{
+    color: blue;
+}
+
+#two{
+    color: red;
+}
+
+#three{
+    color: yellow;
+}
+
+#head{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.lista{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    text-align: center;
+
+}
+
+
+.ing{
+    text-align: center;
+}
+
+.opt{
+    color: blue;
+}
+
+.prp{
+    color:peru;
+}
+
+.nutr{
+    color: black;
+    font-weight: 300;
+}
+
